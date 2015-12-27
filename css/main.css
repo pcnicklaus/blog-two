@@ -1,0 +1,45 @@
+/* add custom styles */
+
+/*body {
+  padding-top: 80px;
+}*/
+
+.navbar-brand>img {
+  max-height: 50px
+}
+
+/*.navbar {
+  height: 65px;
+}*/
+
+.navbar li {
+  margin-top: 13px;
+  font-size: 1.2em;
+
+}
+
+.list-unstyled li {
+  padding: 5px 0;
+}
+
+#logo {
+  max-height: 50px;
+}
+
+#title {
+  font-size: 2em;
+  margin-left: 8px;
+}
+
+#subhead {
+  font-size: 1.3em;
+}
+
+#question {
+  font-size: 1.5em;
+  padding-bottom: 10px;
+}
+
+#answer {
+  padding-bottom: 10px;
+}
